@@ -4,7 +4,7 @@ Just some scripts that I needed to remember.
 
 ## Pause
 
-A propor PAUSE instruction for adding to the slicer since M25 doesn't do much in this printer and M600 isn't supported (on the original firmware)
+A proper PAUSE instruction for adding to the slicer since M25 doesn't do much in this printer and M600 isn't supported (on the original firmware)
 
 ## Enable/Disable powerloss recovery
 
